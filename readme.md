@@ -40,7 +40,7 @@ My passion is building high-quality applications that combine beautiful user exp
 ### Backend & Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,supabase" />
 </p>
 
 ### Programming Languages
