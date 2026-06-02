@@ -72,11 +72,10 @@ My passion is building high-quality applications that combine beautiful user exp
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=true" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-alsharabi" />
+</p>
 ---
 
 ## Featured Skills
