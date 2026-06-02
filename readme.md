@@ -46,7 +46,7 @@ My passion is building high-quality applications that combine beautiful user exp
 ### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,cpp,c#,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=dart,python,java,cpp,cs,html,css,javascript" />
 </p>
 
 ### Development Tools
