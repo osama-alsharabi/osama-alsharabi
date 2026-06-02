@@ -70,14 +70,6 @@ My passion is building high-quality applications that combine beautiful user exp
 
 ---
 
-## GitHub Statistics
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=osama-alsharabi" />
-</p>
----
-
 ## Featured Skills
 
 <p align="left">
