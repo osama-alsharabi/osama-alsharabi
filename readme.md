@@ -14,7 +14,7 @@ Building scalable mobile applications with a focus on performance, clean archite
 
 I am a Mobile Application Developer specializing in Flutter and modern software solutions.
 
-My passion is building high-quality applications that combine beautiful user experiences with scalable architecture. I enjoy working on projects involving artificial intelligence, financial systems, social platforms, and wearable technologies.
+My passion is building high-quality applications that combine beautiful user experiences with scalable architecture. I enjoy working on projects involving artificial intelligence, financial systems, social platforms.
 
 ---
 
