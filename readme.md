@@ -58,3 +58,57 @@ and writing maintainable code that can grow with real-world products.
 
 </tr>
 </table>
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+🌱  
+<b>Experience</b>
+
+<br>
+
+3+ Years Flutter Development
+
+</td>
+
+
+<td align="center">
+
+📍  
+<b>Location</b>
+
+<br>
+
+Yemen 🇾🇪
+
+</td>
+
+
+<td align="center">
+
+🎯  
+<b>Specialization</b>
+
+<br>
+
+Flutter Mobile Apps
+
+</td>
+
+
+<td align="center">
+
+🔥  
+<b>Current Goal</b>
+
+<br>
+
+Building Production Apps
+
+</td>
+
+</tr>
+</table>
