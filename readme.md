@@ -45,3 +45,77 @@ My goal is to transform ideas into reliable and beautiful mobile experiences.
 
 </tr>
 </table>
+
+## 🛠️ Flutter Arsenal
+
+<p align="center">
+Technologies and tools I use to build scalable Flutter applications.
+</p>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="25%" align="center">
+
+### 📱 Framework
+
+<br>
+
+Flutter  
+Dart  
+Material 3  
+
+</td>
+
+
+<td width="25%" align="center">
+
+### 🏗 Architecture
+
+<br>
+
+Clean Architecture  
+SOLID Principles  
+MVVM  
+
+</td>
+
+
+<td width="25%" align="center">
+
+### ⚡ State Management
+
+<br>
+
+Cubit  
+BLoC  
+Provider  
+
+</td>
+
+
+<td width="25%" align="center">
+
+### 🔌 Backend
+
+<br>
+
+Firebase  
+Supabase  
+REST APIs  
+
+</td>
+
+</tr>
+
+</table>
+<br>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark"/>
+
+</p>
