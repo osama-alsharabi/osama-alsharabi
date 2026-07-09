@@ -12,28 +12,49 @@ beautiful user experiences, and scalable codebases.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Building+Beautiful+Mobile+Applications;Always+Learning+Something+New"/>
 
+## 👨‍💻 About Me
+
+<div align="center">
+
+### 💙 Flutter Developer
+
+I build modern, scalable, and high-performance mobile applications using Flutter & Dart.
+
+I focus on clean architecture, reusable components, smooth user experiences,
+and writing maintainable code that can grow with real-world products.
+
 </div>
-## 👨 About Me
 
-<table>
+<br>
+
+<table align="center">
 <tr>
-<td width="55%">
 
-```yaml
-Name: Osama Alsharabi
+<td width="50%" valign="top">
 
-Role: Flutter Developer
+### 🚀 What I Do
 
-Experience: 3+ Years
+- 📱 Build cross-platform mobile applications
+- 🏗 Design scalable Flutter architectures
+- 🎨 Create responsive & pixel-perfect UIs
+- 🔌 Integrate REST APIs and backend services
+- ⚡ Optimize app performance
+- 🧩 Build reusable Flutter components
 
-Location: Yemen 🇾🇪
+</td>
 
-Specialization:
-  - Flutter
-  - Clean Architecture
-  - Mobile UI
+<td width="50%" valign="top">
 
-Current Focus:
-  - High Performance Apps
-  - Reusable Components
-  - Flutter Best Practices
+### 🧠 My Development Approach
+
+- Clean Architecture
+- SOLID Principles
+- MVVM Pattern
+- Cubit / BLoC State Management
+- Clean & Maintainable Code
+- User-Centered Design
+
+</td>
+
+</tr>
+</table>
