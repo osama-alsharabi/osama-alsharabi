@@ -127,7 +127,7 @@ REST APIs
 <tr>
 <td align="center" width="25%">
 
-### 💙 3+
+### 💙 2+
 Years of Experience
 
 </td>
@@ -201,15 +201,40 @@ Architecture
 
 <br/>
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to discussing Flutter projects, freelance work, or interesting ideas.
+<p>
+<a href="mailto:osama.alsharabi.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<a href="https://www.linkedin.com/in/osama-alsharabi-b6949a309/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+</a>
+
+<a href="https://www.instagram.com/osama_alsharabi.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+<a href="https://www.facebook.com/osama.ahmed.alsharabi/" target="_blank">
+<img src="https://img.icons8.com/color/96/facebook-new.png" width="55"/>
+</a>
+
+</p>
+
+<br>
+
+**📧 Email**
+
+osama.alsharabi.dev@gmail.com
+
+<br>
+
+**📱 Phone**
+
++967 778 870 086
 
 </div>
 
