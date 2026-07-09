@@ -14,99 +14,74 @@ beautiful user experiences, and scalable codebases.
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<table>
+<tr>
 
-### 💙 Flutter Developer
+<td width="55%" valign="top">
 
-I build modern, scalable, and high-performance mobile applications using Flutter & Dart.
+<h3>
+Hi, I'm Osama 👋
+</h3>
 
-I focus on clean architecture, reusable components, smooth user experiences,
-and writing maintainable code that can grow with real-world products.
+<p>
+I'm a Flutter Developer with <b>3+ years of experience</b> building modern,
+scalable, and high-performance mobile applications.
+</p>
 
-</div>
+<p>
+I specialize in Flutter development, clean architecture, state management,
+and creating beautiful user experiences with maintainable code.
+</p>
 
 <br>
 
-<table align="center">
+<table>
 <tr>
+<td>
 
-<td width="50%" valign="top">
-
-### 🚀 What I Do
-
-- 📱 Build cross-platform mobile applications
-- 🏗 Design scalable Flutter architectures
-- 🎨 Create responsive & pixel-perfect UIs
-- 🔌 Integrate REST APIs and backend services
-- ⚡ Optimize app performance
-- 🧩 Build reusable Flutter components
+🚀 <b>Specialization</b><br>
+Flutter Mobile Apps
 
 </td>
 
-<td width="50%" valign="top">
+<td>
 
-### 🧠 My Development Approach
+🏗️ <b>Architecture</b><br>
+Clean Architecture
 
-- Clean Architecture
-- SOLID Principles
-- MVVM Pattern
-- Cubit / BLoC State Management
-- Clean & Maintainable Code
-- User-Centered Design
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+⚡ <b>Experience</b><br>
+3+ Years
+
+</td>
+
+<td>
+
+🎨 <b>Focus</b><br>
+UI & Performance
 
 </td>
 
 </tr>
 </table>
-<br>
 
-<table align="center">
-<tr>
-
-<td align="center">
-
-🌱  
-<b>Experience</b>
-
-<br>
-
-3+ Years Flutter Development
 
 </td>
 
 
-<td align="center">
+<td width="45%" align="center">
 
-📍  
-<b>Location</b>
-
-<br>
-
-Yemen 🇾🇪
-
-</td>
-
-
-<td align="center">
-
-🎯  
-<b>Specialization</b>
-
-<br>
-
-Flutter Mobile Apps
-
-</td>
-
-
-<td align="center">
-
-🔥  
-<b>Current Goal</b>
-
-<br>
-
-Building Production Apps
+<img 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"
+width="350"
+/>
 
 </td>
 
