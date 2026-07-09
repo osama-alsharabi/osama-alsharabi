@@ -31,7 +31,6 @@ beautiful user experiences, and scalable codebases.
 
 I'm a **Flutter Developer** with **3+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI.
 
-I currently build **وسيط (Waseet)** — a full-scale vehicle marketplace app for the Yemeni market — where I own the entire mobile layer on top of a Clean Architecture foundation.
 
 ```dart
 class OsamaAlsharabi {
@@ -42,7 +41,7 @@ class OsamaAlsharabi {
   final bool loves = true; // clean, scalable code
 
   void currentFocus() {
-    print('Building Waseet 🚗 — a vehicle marketplace app');
+    print('Building modern app');
   }
 }
 ```
