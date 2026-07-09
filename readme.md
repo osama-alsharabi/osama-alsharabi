@@ -13,14 +13,7 @@ beautiful user experiences, and scalable codebases.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Cubit+%2F+BLoC+State+Management;Building+Beautiful+Mobile+Applications;Always+Learning+Something+New"/>
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
-
 </div>
-
 <br/>
 
 ## 👨‍💻 About Me
