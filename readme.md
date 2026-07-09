@@ -29,7 +29,7 @@ beautiful user experiences, and scalable codebases.
 <tr>
 <td width="55%" valign="top">
 
-I'm a **Flutter Developer** with **3+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI.
+I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI.
 
 
 ```dart
@@ -62,7 +62,7 @@ My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="320"/>
 
 </td>
 </tr>
@@ -181,16 +181,6 @@ Architecture
 <tr>
 <td width="100%">
 
-### 🚗 وسيط (Waseet) — Vehicle Marketplace App
-A full-scale vehicle marketplace platform built for the Yemeni market, covering individual and business listings, subscription plans, admin-supervised chat, and a secure OTP-based authentication flow.
-
-**Highlights:**
-- Clean Architecture with Cubit/BLoC across every feature module
-- Phone/OTP authentication flow backed by Redis & Laravel 11 + Sanctum
-- Listing rules engine (photo/video requirements, VIN duplicate checks, plan-based limits)
-- Admin-supervised dual-chat system for secure transactions
-
-`Flutter` `Dart` `Cubit/BLoC` `Clean Architecture` `Laravel API` `PostgreSQL`
 
 </td>
 </tr>
