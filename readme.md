@@ -19,69 +19,27 @@ beautiful user experiences, and scalable codebases.
 
 <td width="55%" valign="top">
 
-<h3>
-Hi, I'm Osama 👋
-</h3>
+### Hi, I'm Osama 👋
 
-<p>
-I'm a Flutter Developer with <b>3+ years of experience</b> building modern,
-scalable, and high-performance mobile applications.
-</p>
+I'm a Flutter Developer with **3+ years of experience** building
+modern, scalable, and high-performance mobile applications.
 
-<p>
-I specialize in Flutter development, clean architecture, state management,
-and creating beautiful user experiences with maintainable code.
-</p>
+I specialize in:
 
-<br>
+- 📱 Flutter & Dart Development
+- 🏗 Clean Architecture
+- ⚡ Cubit / BLoC State Management
+- 🎨 Responsive & Pixel Perfect UI
+- 🔌 API Integration
+- 🚀 Performance Optimization
 
-<table>
-<tr>
-<td>
-
-🚀 <b>Specialization</b><br>
-Flutter Mobile Apps
+My goal is to transform ideas into reliable and beautiful mobile experiences.
 
 </td>
-
-<td>
-
-🏗️ <b>Architecture</b><br>
-Clean Architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-⚡ <b>Experience</b><br>
-3+ Years
-
-</td>
-
-<td>
-
-🎨 <b>Focus</b><br>
-UI & Performance
-
-</td>
-
-</tr>
-</table>
-
-
-</td>
-
 
 <td width="45%" align="center">
 
-<img 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png"
-width="350"
-/>
+<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="380"/>
 
 </td>
 
