@@ -121,39 +121,81 @@ REST APIs
 
 <br/>
 
-## ⭐ Professional Snapshot
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💙 2+
-Years of Experience
-
-</td>
-<td align="center" width="25%">
-
-### 📱 15+
-Applications Built
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 100%
-Flutter Focus
-
-</td>
-<td align="center" width="25%">
-
-### 🏗 Clean
-Architecture
-
-</td>
-</tr>
-</table>
+## 💎 Professional Snapshot
 
 <div align="center">
 
+> **Crafting modern mobile experiences with simplicity, performance, and clean architecture.**
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/developer.png" width="55"/>
+
+### Flutter
+
+Building production-ready
+mobile applications.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="55"/>
+
+### Performance
+
+Fast, smooth and
+optimized experiences.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/code.png" width="55"/>
+
+### Architecture
+
+Scalable solutions with
+Clean Architecture.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/idea.png" width="55"/>
+
+### Mindset
+
+Always learning.
+Always improving.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+| 🚀 Focus | 💙 Value |
+|:---------|:---------|
+| Clean Architecture | Maintainable Code |
+| Cubit / BLoC | Predictable State |
+| Responsive UI | Great User Experience |
+| Performance | Smooth Animations |
+| REST APIs | Reliable Integrations |
+
+</div>
 ### What I Bring to Every Project
 
 </div>
