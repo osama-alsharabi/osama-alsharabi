@@ -13,3 +13,27 @@ beautiful user experiences, and scalable codebases.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Building+Beautiful+Mobile+Applications;Always+Learning+Something+New"/>
 
 </div>
+## 👨 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+Name: Osama Alsharabi
+
+Role: Flutter Developer
+
+Experience: 3+ Years
+
+Location: Yemen 🇾🇪
+
+Specialization:
+  - Flutter
+  - Clean Architecture
+  - Mobile UI
+
+Current Focus:
+  - High Performance Apps
+  - Reusable Components
+  - Flutter Best Practices
