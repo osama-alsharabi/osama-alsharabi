@@ -119,23 +119,109 @@ REST APIs
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark"/>
 
 </p>
-## ⭐ Experience & Achievements
+
+## ⭐ Professional Snapshot
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+# 💙
+
+### 3+
+
+Years of Experience
+
+</td>
+
+<td align="center" width="25%">
+
+# 📱
+
+### 15+
+
+Applications Built
+
+</td>
+
+<td align="center" width="25%">
+
+# 🚀
+
+### 100%
+
+Flutter Focus
+
+</td>
+
+<td align="center" width="25%">
+
+# 🏗
+
+### Clean
+
+Architecture
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
-| 💼 Experience | 📱 Applications | 🏗 Architecture | 🚀 Focus |
-|--------------:|:---------------:|:---------------:|:--------:|
-| **3+ Years** | **15+ Apps** | **Clean Architecture** | **Flutter** |
+### What I Bring to Every Project
 
 </div>
 
-<br>
+<table>
 
-### 🏆 Highlights
+<tr>
 
-- 💙 3+ years of professional Flutter development
-- 📱 Built multiple production-ready mobile applications
-- 🏗️ Strong experience with Clean Architecture & SOLID principles
-- ⚡ Focused on scalable and maintainable codebases
-- 🎨 Passionate about crafting responsive and pixel-perfect UIs
-- 🚀 Continuously improving performance and developer experience
+<td>
+
+✅ Scalable Architecture
+
+</td>
+
+<td>
+
+⚡ High Performance
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🎨 Pixel Perfect UI
+
+</td>
+
+<td>
+
+📦 Reusable Components
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🔌 API Integration
+
+</td>
+
+<td>
+
+🧪 Maintainable Code
+
+</td>
+
+</tr>
+
+</table>
