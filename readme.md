@@ -119,3 +119,23 @@ REST APIs
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark"/>
 
 </p>
+## ⭐ Experience & Achievements
+
+<div align="center">
+
+| 💼 Experience | 📱 Applications | 🏗 Architecture | 🚀 Focus |
+|--------------:|:---------------:|:---------------:|:--------:|
+| **3+ Years** | **15+ Apps** | **Clean Architecture** | **Flutter** |
+
+</div>
+
+<br>
+
+### 🏆 Highlights
+
+- 💙 3+ years of professional Flutter development
+- 📱 Built multiple production-ready mobile applications
+- 🏗️ Strong experience with Clean Architecture & SOLID principles
+- ⚡ Focused on scalable and maintainable codebases
+- 🎨 Passionate about crafting responsive and pixel-perfect UIs
+- 🚀 Continuously improving performance and developer experience
