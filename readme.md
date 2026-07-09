@@ -1,170 +1,155 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1565C0&height=250&section=header&text=Osama%20Alsharabi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Osama Alsharabi
-
 ### Flutter Developer • Clean Architecture • Mobile UI Specialist
 
 <p>
-Building high-performance Flutter applications with clean architecture,
+Building high-performance Flutter applications with clean architecture,<br/>
 beautiful user experiences, and scalable codebases.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Building+Beautiful+Mobile+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+Developer;Clean+Architecture+Enthusiast;Cubit+%2F+BLoC+State+Management;Building+Beautiful+Mobile+Applications;Always+Learning+Something+New"/>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
+
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
 <table>
 <tr>
-
 <td width="55%" valign="top">
 
-### Hi, I'm Osama 👋
+I'm a **Flutter Developer** with **3+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI.
 
-I'm a Flutter Developer with **3+ years of experience** building
-modern, scalable, and high-performance mobile applications.
+I currently build **وسيط (Waseet)** — a full-scale vehicle marketplace app for the Yemeni market — where I own the entire mobile layer on top of a Clean Architecture foundation.
 
-I specialize in:
+```dart
+class OsamaAlsharabi {
+  final String role = 'Flutter Developer';
+  final String location = 'Yemen 🇾🇪';
+  final List<String> stack = ['Flutter', 'Dart', 'Firebase', 'Supabase'];
+  final String architecture = 'Clean Architecture + Cubit/BLoC';
+  final bool loves = true; // clean, scalable code
 
-- 📱 Flutter & Dart Development
-- 🏗 Clean Architecture
-- ⚡ Cubit / BLoC State Management
-- 🎨 Responsive & Pixel Perfect UI
-- 🔌 API Integration
-- 🚀 Performance Optimization
+  void currentFocus() {
+    print('Building Waseet 🚗 — a vehicle marketplace app');
+  }
+}
+```
 
-My goal is to transform ideas into reliable and beautiful mobile experiences.
+**What I focus on:**
+- 📱 Flutter & Dart development end-to-end
+- 🏗 Clean Architecture with clear separation of concerns
+- ⚡ Cubit / BLoC state management
+- 🎨 Responsive, pixel-perfect UI
+- 🔌 REST API integration & real-time backends
+- 🚀 Performance optimization & maintainable code
+
+My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
 </td>
-
 <td width="45%" align="center">
+<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="320"/>
 
-<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="380"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="320"/>
 
 </td>
-
 </tr>
 </table>
+
+<br/>
 
 ## 🛠️ Flutter Arsenal
 
-<p align="center">
-Technologies and tools I use to build scalable Flutter applications.
-</p>
-
-<br>
+<p align="center">Technologies and tools I use to build scalable Flutter applications.</p>
 
 <table align="center">
-
 <tr>
-
 <td width="25%" align="center">
 
-### 📱 Framework
-
-<br>
-
-Flutter  
-Dart  
-Material 3  
+**📱 Framework**
+<br/><br/>
+Flutter<br/>
+Dart<br/>
+Material 3
 
 </td>
-
-
 <td width="25%" align="center">
 
-### 🏗 Architecture
-
-<br>
-
-Clean Architecture  
-SOLID Principles  
-MVVM  
+**🏗 Architecture**
+<br/><br/>
+Clean Architecture<br/>
+SOLID Principles<br/>
+MVVM
 
 </td>
-
-
 <td width="25%" align="center">
 
-### ⚡ State Management
-
-<br>
-
-Cubit  
-BLoC  
-Provider  
+**⚡ State Management**
+<br/><br/>
+Cubit<br/>
+BLoC<br/>
+Provider
 
 </td>
-
-
 <td width="25%" align="center">
 
-### 🔌 Backend
-
-<br>
-
-Firebase  
-Supabase  
-REST APIs  
+**🔌 Backend**
+<br/><br/>
+Firebase<br/>
+Supabase<br/>
+REST APIs
 
 </td>
-
 </tr>
-
 </table>
-<br>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark"/>
-
 </p>
+
+<br/>
 
 ## ⭐ Professional Snapshot
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
-# 💙
-
-### 3+
-
+### 💙 3+
 Years of Experience
 
 </td>
-
 <td align="center" width="25%">
 
-# 📱
-
-### 15+
-
+### 📱 15+
 Applications Built
 
 </td>
-
 <td align="center" width="25%">
 
-# 🚀
-
-### 100%
-
+### 🚀 100%
 Flutter Focus
 
 </td>
-
 <td align="center" width="25%">
 
-# 🏗
-
-### Clean
-
+### 🏗 Clean
 Architecture
 
 </td>
-
 </tr>
 </table>
 
@@ -174,54 +159,73 @@ Architecture
 
 </div>
 
-<table>
-
+<table align="center">
 <tr>
-
-<td>
-
-✅ Scalable Architecture
-
-</td>
-
-<td>
-
-⚡ High Performance
-
-</td>
-
+<td width="50%">✅ Scalable Architecture</td>
+<td width="50%">⚡ High Performance</td>
 </tr>
-
 <tr>
-
-<td>
-
-🎨 Pixel Perfect UI
-
-</td>
-
-<td>
-
-📦 Reusable Components
-
-</td>
-
+<td width="50%">🎨 Pixel Perfect UI</td>
+<td width="50%">📦 Reusable Components</td>
 </tr>
-
 <tr>
-
-<td>
-
-🔌 API Integration
-
-</td>
-
-<td>
-
-🧪 Maintainable Code
-
-</td>
-
+<td width="50%">🔌 API Integration</td>
+<td width="50%">🧪 Maintainable Code</td>
 </tr>
-
 </table>
+
+<br/>
+
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td width="100%">
+
+### 🚗 وسيط (Waseet) — Vehicle Marketplace App
+A full-scale vehicle marketplace platform built for the Yemeni market, covering individual and business listings, subscription plans, admin-supervised chat, and a secure OTP-based authentication flow.
+
+**Highlights:**
+- Clean Architecture with Cubit/BLoC across every feature module
+- Phone/OTP authentication flow backed by Redis & Laravel 11 + Sanctum
+- Listing rules engine (photo/video requirements, VIN duplicate checks, plan-based limits)
+- Admin-supervised dual-chat system for secure transactions
+
+`Flutter` `Dart` `Cubit/BLoC` `Clean Architecture` `Laravel API` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing Flutter projects, freelance work, or interesting ideas.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-42A5F5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,100:42A5F5&height=120&section=footer"/>
