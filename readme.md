@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Osama Alsharabi
+# <img src="https://img.icons8.com/fluency/48/waving-hand.png" width="34" valign="middle"/> Hi, I'm Osama Alsharabi
 ### Flutter Developer • Clean Architecture • Mobile UI Specialist
 
 <p>
@@ -16,7 +16,7 @@ beautiful user experiences, and scalable codebases.
 </div>
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30" valign="middle"/> About Me
 
 <table>
 <tr>
@@ -28,7 +28,7 @@ I'm a **Flutter Developer** with **2+ years of experience** designing and shippi
 ```dart
 class OsamaAlsharabi {
   final String role = 'Flutter Developer';
-  final String location = 'Yemen 🇾🇪';
+  final String location = 'Yemen';
   final List<String> stack = [
     'Flutter',
      'Dart',
@@ -52,12 +52,15 @@ class OsamaAlsharabi {
 ```
 
 **What I focus on:**
-- 📱 Flutter & Dart development end-to-end
-- 🏗 Clean Architecture with clear separation of concerns
-- ⚡ Cubit / BLoC state management
-- 🎨 Responsive, pixel-perfect UI
-- 🔌 REST API integration & real-time backends
-- 🚀 Performance optimization & maintainable code
+
+<table>
+<tr><td width="36"><img src="https://img.icons8.com/fluency/40/iphone.png" width="24"/></td><td>Flutter & Dart development end-to-end</td></tr>
+<tr><td><img src="https://img.icons8.com/fluency/40/city-buildings.png" width="24"/></td><td>Clean Architecture with clear separation of concerns</td></tr>
+<tr><td><img src="https://img.icons8.com/fluency/40/flash-on.png" width="24"/></td><td>Cubit / BLoC state management</td></tr>
+<tr><td><img src="https://img.icons8.com/fluency/40/paint-palette.png" width="24"/></td><td>Responsive, pixel-perfect UI</td></tr>
+<tr><td><img src="https://img.icons8.com/fluency/40/electrical.png" width="24"/></td><td>REST API integration & real-time backends</td></tr>
+<tr><td><img src="https://img.icons8.com/fluency/40/high-priority.png" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
+</table>
 
 My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
@@ -75,7 +78,7 @@ My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
 <br/>
 
-## 🛠️ Flutter Arsenal
+## <img src="https://img.icons8.com/fluency/48/maintenance.png" width="30" valign="middle"/> Flutter Arsenal
 
 <p align="center">Technologies and tools I use to build scalable Flutter applications.</p>
 
@@ -83,7 +86,9 @@ My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 <tr>
 <td width="25%" align="center">
 
-**📱 Framework**
+<img src="https://img.icons8.com/fluency/48/iphone.png" width="30"/>
+<br/>
+**Framework**
 <br/><br/>
 Flutter<br/>
 Dart<br/>
@@ -92,7 +97,9 @@ Material 3
 </td>
 <td width="25%" align="center">
 
-**🏗 Architecture**
+<img src="https://img.icons8.com/fluency/48/city-buildings.png" width="30"/>
+<br/>
+**Architecture**
 <br/><br/>
 Clean Architecture<br/>
 SOLID Principles<br/>
@@ -101,7 +108,9 @@ MVVM
 </td>
 <td width="25%" align="center">
 
-**⚡ State Management**
+<img src="https://img.icons8.com/fluency/48/flash-on.png" width="30"/>
+<br/>
+**State Management**
 <br/><br/>
 Cubit<br/>
 BLoC<br/>
@@ -110,7 +119,9 @@ Provider
 </td>
 <td width="25%" align="center">
 
-**🔌 Backend**
+<img src="https://img.icons8.com/fluency/48/electrical.png" width="30"/>
+<br/>
+**Backend**
 <br/><br/>
 Firebase<br/>
 Supabase<br/>
@@ -126,7 +137,7 @@ REST APIs
 
 <br/>
 
-## 💎 Professional Snapshot
+## <img src="https://img.icons8.com/fluency/48/gem.png" width="30" valign="middle"/> Professional Snapshot
 
 <div align="center">
 
@@ -192,7 +203,7 @@ Always improving.
 
 <div align="center">
 
-| 🚀 Focus | 💙 Value |
+| <img src="https://img.icons8.com/fluency/24/rocket.png" width="18" valign="middle"/> Focus | <img src="https://img.icons8.com/fluency/24/blue-circle.png" width="18" valign="middle"/> Value |
 |:---------|:---------|
 | Clean Architecture | Maintainable Code |
 | Cubit / BLoC | Predictable State |
@@ -201,28 +212,29 @@ Always improving.
 | REST APIs | Reliable Integrations |
 
 </div>
+
 ### What I Bring to Every Project
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">✅ Scalable Architecture</td>
-<td width="50%">⚡ High Performance</td>
+<td width="50%"><img src="https://img.icons8.com/fluency/24/checkmark.png" width="18" valign="middle"/> Scalable Architecture</td>
+<td width="50%"><img src="https://img.icons8.com/fluency/24/flash-on.png" width="18" valign="middle"/> High Performance</td>
 </tr>
 <tr>
-<td width="50%">🎨 Pixel Perfect UI</td>
-<td width="50%">📦 Reusable Components</td>
+<td width="50%"><img src="https://img.icons8.com/fluency/24/paint-palette.png" width="18" valign="middle"/> Pixel Perfect UI</td>
+<td width="50%"><img src="https://img.icons8.com/fluency/24/box.png" width="18" valign="middle"/> Reusable Components</td>
 </tr>
 <tr>
-<td width="50%">🔌 API Integration</td>
-<td width="50%">🧪 Maintainable Code</td>
+<td width="50%"><img src="https://img.icons8.com/fluency/24/electrical.png" width="18" valign="middle"/> API Integration</td>
+<td width="50%"><img src="https://img.icons8.com/fluency/24/test-tube.png" width="18" valign="middle"/> Maintainable Code</td>
 </tr>
 </table>
 
 <br/>
 
-## 🚀 Featured Project
+## <img src="https://img.icons8.com/fluency/48/rocket.png" width="30" valign="middle"/> Featured Project
 
 <table>
 <tr>
@@ -235,7 +247,7 @@ Always improving.
 
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30" valign="middle"/> GitHub Stats
 
 <div align="center">
 
@@ -248,7 +260,7 @@ Always improving.
 
 <br/>
 
-## 🤝 Let's Connect
+## <img src="https://img.icons8.com/fluency/48/handshake.png" width="30" valign="middle"/> Let's Connect
 
 <div align="center">
 
@@ -273,13 +285,13 @@ Always improving.
 
 <br>
 
-**📧 Email**
+**<img src="https://img.icons8.com/fluency/24/gmail-new.png" width="18" valign="middle"/> Email**
 
 osama.alsharabi.dev@gmail.com
 
 <br>
 
-**📱 Phone**
+**<img src="https://img.icons8.com/fluency/24/phone.png" width="18" valign="middle"/> Phone**
 
 +967 778 870 086
 
