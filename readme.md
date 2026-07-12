@@ -36,7 +36,12 @@ class OsamaAlsharabi {
      'Supabase' ,
      'REST APIs
 ];
-  final String architecture = 'Clean Architecture + Cubit/BLoC + MVVM';
+  final List<String> architecture = [
+    'Clean Architecture',
+     'Cubit/BLoC',
+     'MVVM',
+    'SOLID principles'
+];
   final bool loves = true; // clean, scalable code
 
   void currentFocus() {
