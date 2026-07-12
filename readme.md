@@ -32,6 +32,7 @@ class OsamaAlsharabi {
   final List<String> stack = [
     'Flutter',
      'Dart',
+     'Animation' 
      'Firebase',
      'Supabase' ,
      'REST APIs
