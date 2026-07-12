@@ -29,7 +29,7 @@ I'm a **Flutter Developer** with **2+ years of experience** designing and shippi
 class OsamaAlsharabi {
   final String role = 'Flutter Developer';
   final String location = 'Yemen 🇾🇪';
-  final List<String> stack = ['Flutter', 'Dart', 'Firebase', 'Supabase'];
+  final List<String> stack = ['Flutter', 'Dart', 'Firebase', 'Supabase' , 'REST APIs];
   final String architecture = 'Clean Architecture + Cubit/BLoC';
   final bool loves = true; // clean, scalable code
 
