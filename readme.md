@@ -70,9 +70,6 @@ class OsamaAlsharabi {
 <tr><td><img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
 </table>
 
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=c9d1d9&bg_color=0D1117&border_color=42A5F5" width="380"/>
-</div>
 
 <br/>
 
