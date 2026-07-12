@@ -59,20 +59,70 @@ class OsamaAlsharabi {
 </tr>
 </table>
 
-**What I focus on:**
+### <img src="https://api.iconify.design/mdi:target.svg?color=%2342A5F5" width="26" valign="middle"/> What I Focus On
 
-<table>
-<tr><td width="36"><img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="24"/></td><td>Flutter & Dart development end-to-end</td></tr>
-<tr><td><img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="24"/></td><td>Clean Architecture with clear separation of concerns</td></tr>
-<tr><td><img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="24"/></td><td>Cubit / BLoC state management</td></tr>
-<tr><td><img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="24"/></td><td>Responsive, pixel-perfect UI</td></tr>
-<tr><td><img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="24"/></td><td>REST API integration & real-time backends</td></tr>
-<tr><td><img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="40"/>
+
+**Flutter & Dart**
+
+End-to-end mobile development
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="40"/>
+
+**Clean Architecture**
+
+Clear separation of concerns
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="40"/>
+
+**Cubit / BLoC**
+
+Predictable state management
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="40"/>
+
+**Responsive UI**
+
+Pixel-perfect across devices
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="40"/>
+
+**REST APIs**
+
+Real-time backend integration
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="40"/>
+
+**Performance**
+
+Optimized & maintainable code
+
+</td>
+</tr>
 </table>
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=ECEFF4&bg_color=135,0F2942,173A5E&border_color=42A5F5" width="380"/>
-</div>
 
 <br/>
 
