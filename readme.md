@@ -53,7 +53,7 @@ class OsamaAlsharabi {
 </td>
 <td width="40%" align="center">
 
-<img src="https://img.icons8.com/color/240/flutter.png" width="180"/>
+<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="220"/>
 
 </td>
 </tr>
