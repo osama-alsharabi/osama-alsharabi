@@ -20,9 +20,9 @@ beautiful user experiences, and scalable codebases.
 
 I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ```dart
 class OsamaAlsharabi {
@@ -51,9 +51,9 @@ class OsamaAlsharabi {
 ```
 
 </td>
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="220"/>
+<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="100%"/>
 
 </td>
 </tr>
