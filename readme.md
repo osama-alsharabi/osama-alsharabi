@@ -59,7 +59,7 @@ class OsamaAlsharabi {
 </tr>
 </table>
 
-<table width="100%" style="table-layout:fixed">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -87,7 +87,7 @@ class OsamaAlsharabi {
 </table>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark" width="100%"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark" width="280"/>
 </p>
 
 </td>
