@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://img.icons8.com/fluency/48/waving-hand.png" width="34" valign="middle"/> Hi, I'm Osama Alsharabi
+# <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%2342A5F5" width="34" valign="middle"/> Hi, I'm Osama Alsharabi
 ### Flutter Developer • Clean Architecture • Mobile UI Specialist
 
 <p>
@@ -16,7 +16,7 @@ beautiful user experiences, and scalable codebases.
 </div>
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30" valign="middle"/> About Me
+## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%2342A5F5" width="30" valign="middle"/> About Me
 
 I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
@@ -62,21 +62,21 @@ class OsamaAlsharabi {
 **What I focus on:**
 
 <table>
-<tr><td width="36"><img src="https://img.icons8.com/fluency/40/iphone.png" width="24"/></td><td>Flutter & Dart development end-to-end</td></tr>
-<tr><td><img src="https://img.icons8.com/fluency/40/city-buildings.png" width="24"/></td><td>Clean Architecture with clear separation of concerns</td></tr>
-<tr><td><img src="https://img.icons8.com/fluency/40/flash-on.png" width="24"/></td><td>Cubit / BLoC state management</td></tr>
-<tr><td><img src="https://img.icons8.com/fluency/40/paint-palette.png" width="24"/></td><td>Responsive, pixel-perfect UI</td></tr>
-<tr><td><img src="https://img.icons8.com/fluency/40/electrical.png" width="24"/></td><td>REST API integration & real-time backends</td></tr>
-<tr><td><img src="https://img.icons8.com/fluency/40/high-priority.png" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
+<tr><td width="36"><img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="24"/></td><td>Flutter & Dart development end-to-end</td></tr>
+<tr><td><img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="24"/></td><td>Clean Architecture with clear separation of concerns</td></tr>
+<tr><td><img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="24"/></td><td>Cubit / BLoC state management</td></tr>
+<tr><td><img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="24"/></td><td>Responsive, pixel-perfect UI</td></tr>
+<tr><td><img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="24"/></td><td>REST API integration & real-time backends</td></tr>
+<tr><td><img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
 </table>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=c9d1d9&bg_color=0D1117&border_color=42A5F5" width="380"/>
 </div>
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/maintenance.png" width="30" valign="middle"/> Flutter Arsenal
+## <img src="https://api.iconify.design/mdi:toolbox.svg?color=%2342A5F5" width="30" valign="middle"/> Flutter Arsenal
 
 <p align="center">Technologies and tools I use to build scalable Flutter applications.</p>
 
@@ -84,7 +84,7 @@ class OsamaAlsharabi {
 <tr>
 <td width="25%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/iphone.png" width="30"/>
+<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="30"/>
 <br/>
 **Framework**
 <br/><br/>
@@ -95,7 +95,7 @@ Material 3
 </td>
 <td width="25%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/city-buildings.png" width="30"/>
+<img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="30"/>
 <br/>
 **Architecture**
 <br/><br/>
@@ -106,7 +106,7 @@ MVVM
 </td>
 <td width="25%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/flash-on.png" width="30"/>
+<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="30"/>
 <br/>
 **State Management**
 <br/><br/>
@@ -117,7 +117,7 @@ Provider
 </td>
 <td width="25%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/electrical.png" width="30"/>
+<img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="30"/>
 <br/>
 **Backend**
 <br/><br/>
@@ -135,7 +135,7 @@ REST APIs
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/gem.png" width="30" valign="middle"/> Professional Snapshot
+## <img src="https://api.iconify.design/mdi:diamond-stone.svg?color=%2342A5F5" width="30" valign="middle"/> Professional Snapshot
 
 <div align="center">
 
@@ -151,7 +151,7 @@ REST APIs
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/developer.png" width="55"/>
+<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="55"/>
 
 ### Flutter
 
@@ -162,7 +162,7 @@ mobile applications.
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="55"/>
+<img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2342A5F5" width="55"/>
 
 ### Performance
 
@@ -173,7 +173,7 @@ optimized experiences.
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/code.png" width="55"/>
+<img src="https://api.iconify.design/mdi:sitemap.svg?color=%2342A5F5" width="55"/>
 
 ### Architecture
 
@@ -184,7 +184,7 @@ Clean Architecture.
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/idea.png" width="55"/>
+<img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=%2342A5F5" width="55"/>
 
 ### Mindset
 
@@ -201,7 +201,7 @@ Always improving.
 
 <div align="center">
 
-| <img src="https://img.icons8.com/fluency/24/rocket.png" width="18" valign="middle"/> Focus | <img src="https://img.icons8.com/fluency/24/blue-circle.png" width="18" valign="middle"/> Value |
+| <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2342A5F5" width="18" valign="middle"/> Focus | <img src="https://api.iconify.design/mdi:circle.svg?color=%2342A5F5" width="18" valign="middle"/> Value |
 |:---------|:---------|
 | Clean Architecture | Maintainable Code |
 | Cubit / BLoC | Predictable State |
@@ -217,22 +217,22 @@ Always improving.
 
 <table align="center">
 <tr>
-<td width="50%"><img src="https://img.icons8.com/fluency/24/checkmark.png" width="18" valign="middle"/> Scalable Architecture</td>
-<td width="50%"><img src="https://img.icons8.com/fluency/24/flash-on.png" width="18" valign="middle"/> High Performance</td>
+<td width="50%"><img src="https://api.iconify.design/mdi:check-circle.svg?color=%2342A5F5" width="18" valign="middle"/> Scalable Architecture</td>
+<td width="50%"><img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="18" valign="middle"/> High Performance</td>
 </tr>
 <tr>
-<td width="50%"><img src="https://img.icons8.com/fluency/24/paint-palette.png" width="18" valign="middle"/> Pixel Perfect UI</td>
-<td width="50%"><img src="https://img.icons8.com/fluency/24/box.png" width="18" valign="middle"/> Reusable Components</td>
+<td width="50%"><img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="18" valign="middle"/> Pixel Perfect UI</td>
+<td width="50%"><img src="https://api.iconify.design/mdi:package-variant-closed.svg?color=%2342A5F5" width="18" valign="middle"/> Reusable Components</td>
 </tr>
 <tr>
-<td width="50%"><img src="https://img.icons8.com/fluency/24/electrical.png" width="18" valign="middle"/> API Integration</td>
-<td width="50%"><img src="https://img.icons8.com/fluency/24/test-tube.png" width="18" valign="middle"/> Maintainable Code</td>
+<td width="50%"><img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="18" valign="middle"/> API Integration</td>
+<td width="50%"><img src="https://api.iconify.design/mdi:test-tube.svg?color=%2342A5F5" width="18" valign="middle"/> Maintainable Code</td>
 </tr>
 </table>
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/rocket.png" width="30" valign="middle"/> Featured Project
+## <img src="https://api.iconify.design/mdi:rocket-launch.svg?color=%2342A5F5" width="30" valign="middle"/> Featured Project
 
 <table>
 <tr>
@@ -245,20 +245,31 @@ Always improving.
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30" valign="middle"/> GitHub Stats
+## <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2342A5F5" width="30" valign="middle"/> GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=c9d1d9&bg_color=0D1117&border_color=42A5F5" width="55%"/>
 
-<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&theme=tokyonight&hide_border=true" width="49%"/>
+<br/>
 
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=c9d1d9&bg_color=0D1117&border_color=42A5F5" width="80%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&background=0D1117&border=42A5F5&stroke=42A5F5&ring=42A5F5&fire=42A5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=42A5F5&sideLabels=c9d1d9&dates=8B949E&hide_border=false" width="80%"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
 
-## <img src="https://img.icons8.com/fluency/48/handshake.png" width="30" valign="middle"/> Let's Connect
+## <img src="https://api.iconify.design/mdi:handshake.svg?color=%2342A5F5" width="30" valign="middle"/> Let's Connect
 
 <div align="center">
 
@@ -276,20 +287,20 @@ Always improving.
 </a>
 
 <a href="https://www.facebook.com/osama.ahmed.alsharabi/" target="_blank">
-<img src="https://img.icons8.com/color/96/facebook-new.png" width="55"/>
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
 </a>
 
 </p>
 
 <br>
 
-**<img src="https://img.icons8.com/fluency/24/gmail-new.png" width="18" valign="middle"/> Email**
+**<img src="https://api.iconify.design/mdi:email.svg?color=%2342A5F5" width="18" valign="middle"/> Email**
 
 osama.alsharabi.dev@gmail.com
 
 <br>
 
-**<img src="https://img.icons8.com/fluency/24/phone.png" width="18" valign="middle"/> Phone**
+**<img src="https://api.iconify.design/mdi:phone.svg?color=%2342A5F5" width="18" valign="middle"/> Phone**
 
 +967 778 870 086
 
