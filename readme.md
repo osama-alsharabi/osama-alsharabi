@@ -18,12 +18,11 @@ beautiful user experiences, and scalable codebases.
 
 ## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30" valign="middle"/> About Me
 
+I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
+
 <table>
 <tr>
-<td width="55%" valign="top">
-
-I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI.
-
+<td width="60%" valign="top">
 
 ```dart
 class OsamaAlsharabi {
@@ -51,6 +50,15 @@ class OsamaAlsharabi {
 }
 ```
 
+</td>
+<td width="40%" align="center">
+
+<img src="https://img.icons8.com/color/240/flutter.png" width="180"/>
+
+</td>
+</tr>
+</table>
+
 **What I focus on:**
 
 <table>
@@ -62,19 +70,9 @@ class OsamaAlsharabi {
 <tr><td><img src="https://img.icons8.com/fluency/40/high-priority.png" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
 </table>
 
-My goal is simple: turn ideas into reliable, beautiful mobile experiences.
-
-</td>
-<td width="45%" align="center">
-<img src="https://images.openai.com/static-rsc-4/dvlQH_WBSLiUNlMEBPsuuoVNH_PvjuO2Fj5sDA9sxAID6w_Pb0AcBg1xFGxcB36If12BlcwGGuEmsY9e7vTMsoNQtk3w1UzMvc_YuU-lbLWodaa1n5qA7P1fnRDijZiU_o13ZoGXCCBy9ArlUlUudAqnWFzRUpJ_X7wsQs4sm90?purpose=inline" width="320"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="320"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380"/>
+</div>
 
 <br/>
 
