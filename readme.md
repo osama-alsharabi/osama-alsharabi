@@ -70,6 +70,9 @@ class OsamaAlsharabi {
 <tr><td><img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="24"/></td><td>Performance optimization & maintainable code</td></tr>
 </table>
 
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=13B9FD&icon_color=13B9FD&text_color=E3F2FD&bg_color=120,0D47A1,0D1B2A&border_color=42A5F5" width="380"/>
+</div>
 
 <br/>
 
@@ -245,19 +248,19 @@ Always improving.
 ## <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2342A5F5" width="30" valign="middle"/> GitHub Stats
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=c9d1d9&bg_color=0D1117&border_color=42A5F5" width="55%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=13B9FD&icon_color=13B9FD&text_color=E3F2FD&bg_color=120,0D47A1,0D1B2A&border_color=42A5F5" width="90%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=c9d1d9&bg_color=0D1117&border_color=42A5F5" width="80%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=13B9FD&icon_color=13B9FD&text_color=E3F2FD&bg_color=120,0D47A1,0D1B2A&border_color=42A5F5" width="90%"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&background=0D1117&border=42A5F5&stroke=42A5F5&ring=42A5F5&fire=42A5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=42A5F5&sideLabels=c9d1d9&dates=8B949E&hide_border=false" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&background=0D1B2A&border=42A5F5&stroke=13B9FD&ring=13B9FD&fire=42A5F5&currStreakNum=FFFFFF&sideNums=E3F2FD&currStreakLabel=13B9FD&sideLabels=E3F2FD&dates=90CAF9&hide_border=false" width="90%"/>
 
 </td>
 </tr>
