@@ -71,7 +71,7 @@ class OsamaAlsharabi {
 </table>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
 </div>
 
 <br/>
@@ -249,10 +249,10 @@ Always improving.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&theme=tokyonight&hide_border=true" width="30%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osama-alsharabi&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
 
