@@ -71,7 +71,7 @@ class OsamaAlsharabi {
 </table>
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=13B9FD&icon_color=13B9FD&text_color=E3F2FD&bg_color=120,0D47A1,0D1B2A&border_color=42A5F5" width="380"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=ECEFF4&bg_color=135,0F2942,173A5E&border_color=42A5F5" width="380"/>
 </div>
 
 <br/>
@@ -250,17 +250,21 @@ Always improving.
 <div align="center">
 <table width="100%">
 <tr>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=13B9FD&icon_color=13B9FD&text_color=E3F2FD&bg_color=120,0D47A1,0D1B2A&border_color=42A5F5" width="90%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=osama-alsharabi&show_icons=true&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=ECEFF4&bg_color=135,0F2942,173A5E&border_color=42A5F5" width="100%"/>
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=13B9FD&icon_color=13B9FD&text_color=E3F2FD&bg_color=120,0D47A1,0D1B2A&border_color=42A5F5" width="90%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=ECEFF4&bg_color=135,0F2942,173A5E&border_color=42A5F5" width="100%"/>
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&background=0D1B2A&border=42A5F5&stroke=13B9FD&ring=13B9FD&fire=42A5F5&currStreakNum=FFFFFF&sideNums=E3F2FD&currStreakLabel=13B9FD&sideLabels=E3F2FD&dates=90CAF9&hide_border=false" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=osama-alsharabi&background=135,0F2942,173A5E&border=42A5F5&stroke=42A5F5&ring=42A5F5&fire=42A5F5&currStreakNum=FFFFFF&sideNums=ECEFF4&currStreakLabel=42A5F5&sideLabels=ECEFF4&dates=90CAF9&hide_border=false" width="100%"/>
 
 </td>
 </tr>
