@@ -59,40 +59,60 @@ class OsamaAlsharabi {
 </tr>
 </table>
 
-<table width="100%">
+## <img src="https://api.iconify.design/mdi:target.svg?color=%2342A5F5" width="30" valign="middle"/> What I Focus On & Flutter Arsenal
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
+<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="45"/>
 
-### <img src="https://api.iconify.design/mdi:target.svg?color=%2342A5F5" width="24" valign="middle"/> What I Focus On
-
-<table width="100%">
-<tr><td width="40" align="center"><img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="26"/></td><td><b>Flutter & Dart</b><br/><sub>End-to-end mobile development</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="26"/></td><td><b>Clean Architecture</b><br/><sub>Clear separation of concerns</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="26"/></td><td><b>Cubit / BLoC</b><br/><sub>Predictable state management</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="26"/></td><td><b>Responsive UI</b><br/><sub>Pixel-perfect across devices</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="26"/></td><td><b>REST APIs</b><br/><sub>Real-time backend integration</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="26"/></td><td><b>Performance</b><br/><sub>Optimized & maintainable code</sub></td></tr>
-</table>
-
+**Flutter & Dart**
+<br/>
+<sub>Material 3 • End-to-end mobile development</sub>
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
+<img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="45"/>
 
-### <img src="https://api.iconify.design/mdi:toolbox.svg?color=%2342A5F5" width="24" valign="middle"/> Flutter Arsenal
+**Clean Architecture**
+<br/>
+<sub>SOLID • MVVM • Clear separation of concerns</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="45"/>
 
-<table width="100%">
-<tr><td width="40" align="center"><img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="26"/></td><td><b>Framework</b><br/><sub>Flutter, Dart, Material 3</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="26"/></td><td><b>Architecture</b><br/><sub>Clean Architecture, SOLID, MVVM</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="26"/></td><td><b>State Management</b><br/><sub>Cubit, BLoC, Provider</sub></td></tr>
-<tr><td align="center"><img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="26"/></td><td><b>Backend</b><br/><sub>Firebase, Supabase, REST APIs</sub></td></tr>
+**State Management**
+<br/>
+<sub>Cubit • BLoC • Provider</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="45"/>
+
+**Responsive UI**
+<br/>
+<sub>Pixel-perfect across devices</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="45"/>
+
+**Backend Integration**
+<br/>
+<sub>Firebase • Supabase • REST APIs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="45"/>
+
+**Performance**
+<br/>
+<sub>Optimized, maintainable & smooth</sub>
+</td>
+</tr>
 </table>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark" width="280"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
