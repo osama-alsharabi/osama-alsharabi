@@ -16,7 +16,7 @@ beautiful user experiences, and scalable codebases.
 </div>
 <br/>
 
-## <img src="https://api.iconify.design/mdi:account-circle.svg?color=%2342A5F5" width="30" valign="middle"/> About Me
+##  About Me
 
 I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
