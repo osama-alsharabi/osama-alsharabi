@@ -18,7 +18,7 @@ beautiful user experiences, and scalable codebases.
 
 ##  About Me
 
-I'm a **Flutter Developer** with **2+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
+I'm a **Flutter Developer** with **3+ years of experience** designing and shipping production-grade mobile applications — from architecture and state management down to pixel-perfect UI. My goal is simple: turn ideas into reliable, beautiful mobile experiences.
 
 <table width="100%">
 <tr>
