@@ -64,55 +64,52 @@ class OsamaAlsharabi {
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="45"/>
+<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2342A5F5" width="65"/>
 
-**Flutter & Dart**
-<br/>
+### Flutter & Dart
 <sub>Material 3 • End-to-end mobile development</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="45"/>
+<img src="https://api.iconify.design/mdi:office-building.svg?color=%2342A5F5" width="65"/>
 
-**Clean Architecture**
-<br/>
+### Clean Architecture
 <sub>SOLID • MVVM • Clear separation of concerns</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="45"/>
+<img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2342A5F5" width="65"/>
 
-**State Management**
-<br/>
+### State Management
 <sub>Cubit • BLoC • Provider</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="45"/>
+<img src="https://api.iconify.design/mdi:palette.svg?color=%2342A5F5" width="65"/>
 
-**Responsive UI**
-<br/>
+### Responsive UI
 <sub>Pixel-perfect across devices</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="45"/>
+<img src="https://api.iconify.design/mdi:api.svg?color=%2342A5F5" width="65"/>
 
-**Backend Integration**
-<br/>
+### Backend Integration
 <sub>Firebase • Supabase • REST APIs</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="45"/>
+<img src="https://api.iconify.design/mdi:speedometer.svg?color=%2342A5F5" width="65"/>
 
-**Performance**
-<br/>
+### Performance
 <sub>Optimized, maintainable & smooth</sub>
 </td>
 </tr>
 </table>
 
+<br/>
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark" width="280"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,figma,sqlite&theme=dark" width="320"/>
 </p>
+
 
 <br/>
 
