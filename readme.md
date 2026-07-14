@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://api.iconify.design/mdi:hand-wave.svg?color=%2342A5F5" width="34" valign="middle"/> Hi, I'm Osama Alsharabi
+#  Hi, I'm Osama Alsharabi
 ### Flutter Developer • Clean Architecture • Mobile UI Specialist
 
 <p>
