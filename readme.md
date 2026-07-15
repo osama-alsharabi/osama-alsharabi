@@ -79,10 +79,7 @@ class OsamaAlsharabi {
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
 </a>
 
-<br/><br/>
-
-📧 osama.alsharabi.dev@gmail.com &nbsp;|&nbsp; 💬 <a href="https://wa.me/967778870086">WhatsApp</a>
-
+<br/>
 </div>
 <br/>
 
