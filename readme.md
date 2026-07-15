@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1565C0&height=250&section=header&text=Osama%20Alsharabi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:1565C0&height=250&section=header&text=Osama%20Alsharabi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mid-Level%20Flutter%20Developer&descAlignY=58"/>
 
 <div align="center">
 
