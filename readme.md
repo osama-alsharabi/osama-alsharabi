@@ -235,7 +235,7 @@ Always improving.
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=42A5F5&icon_color=42A5F5&text_color=ECEFF4&bg_color=135,0F2942,173A5E&border_color=42A5F5" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=osama-alsharabi&layout=compact&hide_border=false&title_color=FFFFFF&icon_color=42A5F5&text_color=ECEFF4&bg_color=135,0F2942,173A5E&border_color=42A5F5" width="100%"/>
 
 </td>
 </tr>
