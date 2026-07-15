@@ -63,39 +63,27 @@ class OsamaAlsharabi {
 
 <div align="center">
 
-<p>
 <a href="mailto:osama.alsharabi.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
-
 <a href="https://www.linkedin.com/in/osama-alsharabi-b6949a309/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
-
+<a href="https://wa.me/967778870086" target="_blank">
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/>
+</a>
 <a href="https://www.instagram.com/osama_alsharabi.dev/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="55" />
+  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
 </a>
-
 <a href="https://www.facebook.com/osama.ahmed.alsharabi/" target="_blank">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
 </a>
 
-</p>
+<br/><br/>
 
-<br>
-
-**<img src="https://api.iconify.design/mdi:email.svg?color=%2342A5F5" width="18" valign="middle"/> Email**
-
-osama.alsharabi.dev@gmail.com
-
-<br>
-
-**<img src="https://api.iconify.design/mdi:phone.svg?color=%2342A5F5" width="18" valign="middle"/> Phone**
-
-+967 778 870 086
+📧 osama.alsharabi.dev@gmail.com &nbsp;|&nbsp; 💬 <a href="https://wa.me/967778870086">WhatsApp</a>
 
 </div>
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" width="100%"/>
