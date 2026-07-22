@@ -66,7 +66,7 @@ class OsamaAlsharabi {
 <a href="mailto:osama.alsharabi.dev@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
-<a href="https://www.linkedin.com/in/osama-alsharabi-b6949a309/" target="_blank">
+<a href="https://www.linkedin.com/in/osama-alsharabi/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 <a href="https://wa.me/967778870086" target="_blank">
