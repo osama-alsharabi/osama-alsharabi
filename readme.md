@@ -26,22 +26,22 @@ I'm a **Flutter Developer** with **3+ years of experience** designing and shippi
 
 ```dart
 class OsamaAlsharabi {
-  final String role = 'Mid-level Flutter Developer';
-  final String location = 'Sana'a Yemen';
+  final String role = "Mid-level Flutter Developer";
+  final String location = "Sana'a Yemen";
   final List<String> stack = [
-    'Flutter',
-    'Dart',
-    'Animation' 
-    'Firebase',
-    'Supabase' ,
-    'REST APIs
-];
+    "Flutter",
+    "Dart",
+    "Animation", 
+    "Firebase",
+    "Supabase",
+    "REST APIs"
+  ];
   final List<String> architecture = [
-    'Clean Architecture',
-    'Cubit/BLoC',
-    'MVVM',
-    'SOLID Principles'
-];
+    "Clean Architecture",
+    "Cubit/Bloc",
+    "MVVM",
+    "SOLID Principles"
+  ];
   final bool loves = true; // clean, scalable code
 
   void currentFocus() {
