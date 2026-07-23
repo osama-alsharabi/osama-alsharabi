@@ -58,13 +58,6 @@ class OsamaAlsharabi {
     "Android Studio",
     "Postman",
   ];
-  final List<String> architecture = [
-    "Clean Architecture",
-    "Cubit/Bloc",
-    "MVVM",
-    "SOLID Principles"و
-    "Design Pattern"
-  ];
  final bool lovesCleanCode = true;
  final bool openToWork = true;
   void currentFocus() {
