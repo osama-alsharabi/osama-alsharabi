@@ -40,12 +40,12 @@ class OsamaAlsharabi {
     'Clean Architecture',
      'Cubit/BLoC',
      'MVVM',
-    'SOLID principles'
+    'SOLID Principles'
 ];
   final bool loves = true; // clean, scalable code
 
   void currentFocus() {
-    print('Building modern app');
+    print('Building Modern App');
   }
 }
 ```
