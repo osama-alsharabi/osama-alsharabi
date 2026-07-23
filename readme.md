@@ -30,16 +30,16 @@ class OsamaAlsharabi {
   final String location = 'Yemen';
   final List<String> stack = [
     'Flutter',
-     'Dart',
-     'Animation' 
-     'Firebase',
-     'Supabase' ,
-     'REST APIs
+    'Dart',
+    'Animation' 
+    'Firebase',
+    'Supabase' ,
+    'REST APIs
 ];
   final List<String> architecture = [
     'Clean Architecture',
-     'Cubit/BLoC',
-     'MVVM',
+    'Cubit/BLoC',
+    'MVVM',
     'SOLID Principles'
 ];
   final bool loves = true; // clean, scalable code
