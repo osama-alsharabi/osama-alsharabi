@@ -27,7 +27,7 @@ I'm a **Flutter Developer** with **3+ years of experience** designing and shippi
 ```dart
 class OsamaAlsharabi {
   final String role = 'Mid-level Flutter Developer';
-  final String location = 'Yemen';
+  final String location = 'Sana'a Yemen';
   final List<String> stack = [
     'Flutter',
     'Dart',
