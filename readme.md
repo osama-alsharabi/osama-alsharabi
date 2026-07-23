@@ -28,24 +28,47 @@ I'm a **Flutter Developer** with **3+ years of experience** designing and shippi
 class OsamaAlsharabi {
   final String role = "Mid-level Flutter Developer";
   final String location = "Sana'a Yemen";
-  final List<String> stack = [
-    "Flutter",
-    "Dart",
-    "Animation", 
+  final String experience = "3+ years";
+  final List<String> stateManagement = [
+    "Cubit / BLoC", "Provider", "GetX",
+  ];
+  final List<String> backendIntegration = [
     "Firebase",
     "Supabase",
-    "REST APIs"
+    "REST APIs (Dio / http)",
+    "WebSockets",
+  ];
+  final List<String> localDatabase = [
+    "Hive",
+    "SQLite",
+    "SharedPreferences",
+    "Flutter Secure Storage",
+  ];
+  final List<String> architecture = [
+    "Clean Architecture",
+    "MVVM",
+    "SOLID Principles",
+    "Dependency Injection (GetIt)",
+    "Repository Pattern",
+  ];
+  final List<String> tools = [
+    "Git & GitHub",
+    "Figma",
+    "VS Code",
+    "Android Studio",
+    "Postman",
   ];
   final List<String> architecture = [
     "Clean Architecture",
     "Cubit/Bloc",
     "MVVM",
-    "SOLID Principles"
+    "SOLID Principles"و
+    "Design Pattern"
   ];
-  final bool loves = true; // clean, scalable code
-
+ final bool lovesCleanCode = true;
+ final bool openToWork = true;
   void currentFocus() {
-    print('Building Modern App');
+    print("Architecting scalable, maintainable Flutter apps");
   }
 }
 ```
